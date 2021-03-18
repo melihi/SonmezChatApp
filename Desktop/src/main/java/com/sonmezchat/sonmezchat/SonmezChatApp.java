@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * 
+ * Melih isbilen 2020
+ * 
  */
 package com.sonmezchat.sonmezchat;
 
@@ -10,7 +10,7 @@ import org.jsoup.nodes.Document;
 
 /**
  *
- * @author Melih
+ * @author https://github.com/melihi/
  */
 public class SonmezChatApp extends javax.swing.JFrame {
 
